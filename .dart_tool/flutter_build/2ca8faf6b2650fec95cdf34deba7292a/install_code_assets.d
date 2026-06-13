@@ -1,0 +1,1 @@
+ /Volumes/MoeinSSD/Projects/flutter_projects/mi_card_flutter/.dart_tool/flutter_build/2ca8faf6b2650fec95cdf34deba7292a/native_assets.json: 
