@@ -1,3 +1,5 @@
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
 # About Moein App
 
 My first Flutter project built while learning mobile app development.
